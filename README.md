@@ -1,3 +1,3 @@
 # smart-traffic-pygame
 
-no model !!
+no model !! yolo detect car
