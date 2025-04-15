@@ -1,3 +1,3 @@
 # smart-traffic-pygame
 
-[no model !! yolo detect car](https://drive.google.com/file/d/1fmPGGGwvLtQKcBvQNgKOrb2NC8n73qMF/view?usp=drive_link)
+[no model !! yolo detect car](https://drive.google.com/drive/folders/1VU8q0Ti2bDDOgVRDjrZdxBnsPs0zrWfh?usp=drive_link)
